@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Images</folder>
+  <filename>0288</filename>
+  <path>D:\Akhilesh\tower\Images\0288.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nest</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>55</xmin>
+      <ymin>329</ymin>
+      <xmax>141</xmax>
+      <ymax>390</ymax>
+    </bndbox>
+  </object>
+</annotation>

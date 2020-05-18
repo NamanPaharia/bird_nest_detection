@@ -1,0 +1,38 @@
+<annotation>
+  <folder>tower</folder>
+  <filename>001 (71)</filename>
+  <path>D:\Akhilesh\tower\Images\tower\001 (71).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>nest</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>110</xmin>
+      <ymin>657</ymin>
+      <xmax>188</xmax>
+      <ymax>709</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>nest</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>212</xmin>
+      <ymin>19</ymin>
+      <xmax>299</xmax>
+      <ymax>69</ymax>
+    </bndbox>
+  </object>
+</annotation>
